@@ -1,0 +1,26 @@
+baseURL = 'http://janalourenci.github.io'
+languageCode = 'en'
+title = 'Janaína Di Lourenço'
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Janaína Di Lourenço"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:dilourenco.janaina@estudante.ufjf.br"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/janalourenci"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/janalourenci"
